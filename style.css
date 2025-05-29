@@ -92,3 +92,7 @@ footer{
     color: rgb(209, 143, 45);
     margin-left: 15px;
 }
+
+.max{
+    border-radius: 100px;
+}
